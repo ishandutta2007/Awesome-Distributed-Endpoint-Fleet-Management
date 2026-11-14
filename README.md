@@ -11,7 +11,7 @@
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Distributed-Endpoint-Fleet-Management/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Distributed-Endpoint-Fleet-Management?style=social" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Distributed-Endpoint-Fleet-Management/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Distributed-Endpoint-Fleet-Management?style=social" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Distributed-Endpoint-Fleet-Management/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Distributed-Endpoint-Fleet-Management?style=social" alt="GitHub Forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Distributed-Endpoint-Fleet-Management/issues"><img src="https://img.shields.io/github/issues/ishandutta2007/Awesome-Distributed-Endpoint-Fleet-Management" alt="GitHub Issues" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Distributed-Endpoint-Fleet-Management/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg" alt="License" /></a>
@@ -72,7 +72,7 @@ The market exhibits **moderate fragmentation**: while top-tier telematics and te
 
 ## 💻 Open-Source GitHub Projects
 
-| Project | Star Badge | Description |
+| Project | Stars_Badge | Description |
 |---|---|---|
 | **[Traccar](https://github.com/traccar/traccar)** | [![Stars](https://img.shields.io/github/stars/traccar/traccar?style=social&color=white)](https://github.com/traccar/traccar/stargazers) | **The most widely deployed open-source GPS tracking server.** Java backend supporting 200+ device telematics protocols, customizable web UI, REST API, geofencing, and notifications. Runs self-hosted or containerized with zero per-vehicle licensing costs. |
 | **[OpenRemote](https://github.com/openremote/openremote)** | [![Stars](https://img.shields.io/github/stars/openremote/openremote?style=social&color=white)](https://github.com/openremote/openremote/stargazers) | **Open-source IoT device management and telematics platform.** Includes dedicated fleet management capabilities, native Teltonika tracker integration, automated protocol processing, geofencing rules engine, and custom multi-tenant tracking dashboards. |
