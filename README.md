@@ -1,29 +1,62 @@
-# Awesome-Distributed-Endpoint-Fleet-Management
+<div align="center">
 
-## Top Distributed Endpoint Fleet Management Ecosystem
+<p align="center">
+  <img src="assets/banner.svg" alt="Distributed Endpoint Fleet Management Banner" width="100%">
+</p>
 
-**Curated List of SaaS Platforms & Open-Source GitHub Projects**  
-*Focused on Telematics, GPS Tracking & Fleet Operations Management*  
-**Last updated: March 2026**
+# 🚚 Awesome Distributed Endpoint Fleet Management 📡
 
-This repository tracks notable **SaaS platforms** and **open-source projects** for **Distributed Endpoint Fleet Management**. These tools help organizations track vehicles, monitor driver behavior, manage maintenance, and ensure regulatory compliance—covering everything from enterprise telematics with AI dash cams to lightweight maintenance-focused platforms and self-hosted GPS tracking servers.
+**A curated, production-grade index of Enterprise SaaS Platforms & Open-Source Projects for Telematics, IoT Connected Vehicles, and Distributed Asset Operations.**
 
-**Examples** include Samsara, Geotab, Motive, Verizon Connect, Fleetio, and open-source alternatives like Traccar, OpenRemote, and VROOM.
+<p align="center">
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
+  <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Distributed-Endpoint-Fleet-Management/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Distributed-Endpoint-Fleet-Management?style=social" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Distributed-Endpoint-Fleet-Management/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Distributed-Endpoint-Fleet-Management?style=social" alt="GitHub Forks" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Distributed-Endpoint-Fleet-Management/issues"><img src="https://img.shields.io/github/issues/ishandutta2007/Awesome-Distributed-Endpoint-Fleet-Management" alt="GitHub Issues" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Distributed-Endpoint-Fleet-Management/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg" alt="License" /></a>
+  <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
+</p>
 
-Contributions welcome! Open a PR to add/update entries. Keep descriptions factual and link to official sites.
+**Keywords:** `fleet-management` • `vehicle-telematics` • `gps-tracking` • `distributed-endpoints` • `iot-fleet` • `eld-compliance` • `obd-ii` • `can-bus` • `route-optimization` • `autonomous-amr`
 
-## Table of Contents
-- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
-- [SaaS/Hosted Platforms](#saashosted-platforms)
-- [Open-Source GitHub Projects](#open-source-github-projects)
-- [How to Contribute](#how-to-contribute)
-- [Disclaimer](#disclaimer)
+*Last updated: March 2026*
 
-## Sector Overview & Market Dynamics
+---
 
-The global fleet management market is estimated at approximately **$30B to $43.5B in 2026** (projected to surpass $70B+ by the early 2030s at an annual growth rate of 10%–15%), propelled by rapid connected IoT adoption, mandatory electronic logging/compliance frameworks, and mixed-fleet electric vehicle (EV) transitions. The market exhibits **moderate fragmentation**: while top-tier telematics and telecom enterprises (such as Verizon Connect, Samsara, and Geotab) command substantial consolidated footprints (holding ~40% of the enterprise market), the remaining ecosystem is distributed among hundreds of specialized regional, vertical, and niche software providers rather than operating as a pure "winner-take-all" domain.
+</div>
 
-## SaaS/Hosted Platforms
+## 📖 Overview
+
+This repository tracks notable **SaaS platforms** and **open-source software** powering **Distributed Endpoint Fleet Management**. Whether orchestrating commercial logistics, long-haul trucking, public transport, field service vans, or autonomous robotics, these platforms deliver:
+- 📍 **Real-Time GPS & Asset Tracking**: Protocol-agnostic telematics, breadcrumb trails, and Haversine geofencing.
+- 📹 **AI Video Safety Telematics**: Dual-facing dashcams with in-cab computer vision alerting for distracted driving.
+- ⏱️ **Regulatory & Compliance Automation**: FMCSA-compliant ELD (Electronic Logging Devices) and HOS (Hours of Service).
+- 🚗 **Vehicle Diagnostics & Maintenance**: OBD-II and CAN bus DTC fault code telemetry, preventative service workflows, and DVIR mobile walkaround inspections.
+- 🗺️ **Algorithmic Route Optimization**: Multi-stop VRP (Vehicle Routing Problem) solvers factoring capacity, time windows, and live road conditions.
+
+---
+
+## 📑 Table of Contents
+- [📊 Sector Overview & Market Dynamics](#-sector-overview--market-dynamics)
+- [🏢 SaaS / Hosted Platforms](#-saas--hosted-platforms)
+- [💻 Open-Source GitHub Projects](#-open-source-github-projects)
+- [🤝 How to Contribute](#-how-to-contribute)
+- [⭐ Star History](#-star-history)
+- [💖 Support](#-support)
+- [⚠️ Disclaimer](#️-disclaimer)
+
+---
+
+## 📊 Sector Overview & Market Dynamics
+
+The global fleet management market is estimated at approximately **$30B to $43.5B in 2026** (projected to surpass $70B+ by the early 2030s at an annual compound growth rate of 10%–15%), propelled by rapid connected IoT adoption, mandatory electronic logging/compliance frameworks, and mixed-fleet electric vehicle (EV) transitions. 
+
+The market exhibits **moderate fragmentation**: while top-tier telematics and telecom enterprises (such as Verizon Connect, Samsara, and Geotab) command substantial consolidated footprints (holding ~40% of the enterprise market), the remaining ecosystem is distributed among hundreds of specialized regional, vertical, and niche software providers rather than operating as a pure "winner-take-all" domain.
+
+---
+
+## 🏢 SaaS / Hosted Platforms
 
 | Product | Company Size (Valuation / Revenue) | Description | Starting Pricing | Free Tier / Trial Limits |
 |---|---|---|---|---|
@@ -35,7 +68,9 @@ The global fleet management market is estimated at approximately **$30B to $43.5
 | **[Teletrac Navman](https://www.teletracnavman.com/)** | **~$220M Transaction Valuation** (Acquired by Respida Capital; ~$250M – $500M annual revenue) | Enterprise telematics and fleet tracking platform tailored for transportation compliance, GPS asset tracking, and heavy equipment monitoring. | **$25.00/vehicle/month** (Standard GPS tracking tier; comprehensive compliance/video packages run $35–$45+/vehicle/month; 36-month standard agreement) | **No free tier**; 14-day to 30-day proof-of-concept pilot available for qualified enterprise fleets via sales consultation |
 | **[GPS Insight](https://www.gpsinsight.com/)** | **Private / Accel-KKR Backed** (~$35M – $60M annual revenue) | Field service and fleet telematics platform featuring real-time vehicle tracking, smart dash cams, driver safety scoring, and dispatch workflows. | **$14.95/vehicle/month** (Standard tracking tier; bundled smart video and field service packages scale up based on fleet size) | **No free tier**; 14-day scheduled live pilot / guided trial available upon sales consultation |
 
-## Open-Source GitHub Projects
+---
+
+## 💻 Open-Source GitHub Projects
 
 | Project | Star Badge | Description |
 |---|---|---|
@@ -49,22 +84,44 @@ The global fleet management market is estimated at approximately **$30B to $43.5
 | **[VSD Fleet Management](https://github.com/navariltd/Fleet-Management-System)** | [![Stars](https://img.shields.io/github/stars/navariltd/Fleet-Management-System?style=social&color=white)](https://github.com/navariltd/Fleet-Management-System/stargazers) | **Enterprise fleet lifecycle ERP system built on Frappe / ERPNext.** Covers cargo booking, driver and vehicle assignments, trip execution, fuel approval workflows, and maintenance ledger accounting. |
 | **[sachnaror/fleet-management-system](https://github.com/sachnaror/fleet-management-system)** | [![Stars](https://img.shields.io/github/stars/sachnaror/fleet-management-system?style=social&color=white)](https://github.com/sachnaror/fleet-management-system/stargazers) | **Python telematics and diagnostics platform.** Built with FastAPI and SQLAlchemy, integrating OBD-II/CAN bus diagnostic trouble code (DTC) decoders, real-time GPS tracking, and rule-based safety alerts. |
 
-## How to Contribute
+---
 
-1. Fork the repo.
-2. Add/edit entries in `README.md` (follow existing tabular format).
-3. Include: name, link, company size / stars, starting pricing, and factual free tier / trial limits.
-4. Submit PR with a short explanation.
+## 🤝 How to Contribute
 
-Star the repo if you find it useful!
-
-## Disclaimer
-
-- This is a **community-curated** list — not exhaustive and not an endorsement.
-- Fleet management platforms handle sensitive vehicle location data and driver behavior records; enforce privacy controls, data retention policies, and compliance with applicable regulations (GDPR for employee monitoring, FMCSA for ELD data).
-- Pricing figures reflect published starting rates, vendor documentation, or typical industry contracts as of 2025–2026 and are subject to change.
+Contributions are warmly welcomed! To help maintain the highest standard of accuracy:
+1. 🍴 Fork the repository.
+2. ✍️ Add or update entries in [README.md](README.md) following the existing table layout.
+3. 📌 Ensure you provide: product name, official link, verified company size (valuation/revenue) or stars, explicit starting pricing, and concrete free tier/trial limits.
+4. 🚀 Submit a Pull Request with a brief explanation and citations.
 
 ---
 
-**Made for fleet managers, logistics operators, and developers building telematics infrastructure.**  
-Let's make distributed endpoint fleet management more open, data-driven, and cost-predictable.
+## 📈 Star History
+
+[![Star History Chart](https://www.star-history.com/svg?repos=ishandutta2007/Awesome-Distributed-Endpoint-Fleet-Management&type=date&legend=top-left)](https://www.star-history.com/#ishandutta2007/Awesome-Distributed-Endpoint-Fleet-Management&type=date&legend=top-left)
+
+---
+
+## 💖 Support
+
+Thank you for exploring and utilizing this curated guide! 🌟
+
+If you find this repository valuable for your telematics research, engineering projects, or fleet operations, please consider supporting the project:
+- ⭐ **Star** this repository on GitHub to help others discover it.
+- 🍴 **Fork** and contribute new tools, libraries, and frameworks.
+- 📢 **Share** it with fellow fleet managers, engineers, and IoT architects.
+- ☕ **Buy me a coffee**: Support ongoing curation and maintenance via the [GitHub Sponsors Dashboard](https://github.com/sponsors/ishandutta2007).
+
+---
+
+## ⚠️ Disclaimer
+
+- This is a **community-curated index** — not exhaustive and not a commercial endorsement.
+- Fleet management systems process sensitive telemetry, real-time geolocation, and driver telemetry. Always enforce appropriate privacy safeguards, role-based access, and compliance standards (GDPR, FMCSA ELD, local labor tracking laws).
+- Pricing, features, and company valuation data are verified against publicly available documentation and industry reports as of 2025–2026 and are subject to change by vendors.
+
+---
+
+<div align="center">
+  <sub>Built with ❤️ for fleet operators, telematics engineers, and distributed IoT developers worldwide.</sub>
+</div>
